@@ -1,0 +1,15 @@
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/testing.deps.json
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/testing.runtimeconfig.json
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/testing.runtimeconfig.dev.json
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/testing.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/ref/testing.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/bin/Debug/net5.0/testing.pdb
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.csproj.AssemblyReference.cache
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.AssemblyInfoInputs.cache
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.AssemblyInfo.cs
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.csproj.CoreCompileInputs.cache
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/ref/testing.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.pdb
+/Users/vincentngsoonzheng/vinnie-dev/C#/testing/obj/Debug/net5.0/testing.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/tool.pdb
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/clrcompression.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/clrjit.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/coreclr.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/mscordaccore.dll
+/Users/vincentngsoonzheng/vinnie-dev/C#/discordtool/~/vinnie-dev/C#/discordtool/tool.exe
